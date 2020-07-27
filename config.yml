@@ -129,9 +129,9 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Thuhole API
+    - name: API
       category: Main Services
-    - name: Thuhole Images
+    - name: Images
       category: Main Services
 #     - name: Media Proxy
 #       description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
